@@ -1,4 +1,4 @@
-package com.unicon.server.serviceserverdiscovery;
+package com.unicon.server.api.discovery;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
